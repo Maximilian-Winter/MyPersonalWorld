@@ -20,4 +20,6 @@ May Athena and Vajrayogini be my guides and protectors of all people and the Dha
 
 Thank you, Richard Feynman, all artists, and especially Jimi Hendrix and BlackPink for keeping me sane.
 ```
+[Athena](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/athena.png)
 
+[Vajrayogini](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/Vajrayogini.png)
