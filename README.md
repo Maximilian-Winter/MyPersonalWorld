@@ -5,7 +5,6 @@ They are not meant as absolute positions, but more as ideas that might be intere
 
 I took an deeply personal vow by taking an example of Green Tara, the green female Boddhisattva and Buddha:
 ```
-My Vow:
 While others say female birth is lower,
 I shall work for all beings
 Always in a woman's body
