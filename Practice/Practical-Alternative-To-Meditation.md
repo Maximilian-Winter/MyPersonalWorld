@@ -1,4 +1,4 @@
-I think I found what is a good alternative to meditation for me. It is called Hitbodedut and Hitbonenut. Here is a guide I wrote for myself:
+I think I found what is a good alternative to meditation for me. It is called Hitbodedut and Hitbonenut and comes from Jewish Religion, this variant tries to adapt Rabbi Nachman of Breslov's description of the process. Here is a guide I wrote for myself:
 
 # A Personal Guide to Hitbodedut and Hitbonenut
 
