@@ -3,7 +3,7 @@
 This is here is a personal collections of insights and reflections on spirituality. 
 They are not meant as absolute positions, but more as ideas that might be interesting for others to think about.
 
-I took an deeply personal vow by taking an example of Green Tara, the green female Boddhisattva and Buddha:
+I took a deeply personal vow by taking an example of Green Tara, the green female Bodhisattva and Buddha:
 ```
 While others say female birth is lower,
 I shall work for all beings
