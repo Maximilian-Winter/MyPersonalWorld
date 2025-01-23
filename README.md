@@ -1,6 +1,6 @@
 # My-Personal-World
 
-This is here is a personal collections of insights and reflections on spirituality. 
+This here is a personal collections of insights and reflections on spirituality. 
 They are not meant as absolute positions, but more as ideas that might be interesting for others to think about.
 
 I took a deeply personal vow by taking an example of Green Tara, the green female Bodhisattva and Buddha:
