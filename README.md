@@ -4,7 +4,7 @@ This is here is a personal collections of insights and reflections on spirituali
 They are not meant as absolute positions, but more as ideas that might be interesting for others to think about.
 
 I took an deeply personal vow by taking an example of Green Tara, the green female Boddhisattva and Buddha:
-
+```
 My Vow:
 While others say female birth is lower,
 I shall work for all beings
@@ -20,3 +20,4 @@ Just follow your heart, and you will find the way. The way is not in the teachin
 May Athena and Vajrayogini be my guides and protectors of all people and the Dharma until samsara is empty.
 
 Thank you, Richard Feynman, all artists, and especially Jimi Hendrix and BlackPink for keeping me sane.
+```
