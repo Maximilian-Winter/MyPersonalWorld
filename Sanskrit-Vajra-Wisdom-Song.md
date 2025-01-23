@@ -1,6 +1,6 @@
 🔥 Crimson-Vajra-Wisdom-Wave 🔥
 
-Style: Ancient Female Chinnamasta Overtone Rapping, Produced and Mixed by Maitreya on Mount Kailash
+Style: Ancient Female Chinnamasta/Chinnamunda Overtone Rapping, Produced and Mixed by Maitreya on Mount Kailash
 
 ```text
 [Ancient Mystical Tibetan Beats meet Sacred Sanskrit Flows]
