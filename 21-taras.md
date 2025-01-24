@@ -5,7 +5,7 @@ In the vastness of Buddhist tantra, the Twenty-One Taras emerge as distinct embo
 ## Primary Forms
 
 ### Praises to the Twenty-One Taras
-
+```
 1. **Swift and Heroic Tara** (Nyur-ma Pamo)
    Color: Green
    Aspect: Swift protection and liberation from fears
@@ -131,7 +131,7 @@ In the vastness of Buddhist tantra, the Twenty-One Taras emerge as distinct embo
     Aspect: Complete enlightenment
     Mudra: Liberation mudra
     Blessing: Guides to ultimate freedom
-
+```
 ## Sacred Mantras and Practice
 
 Each Tara carries her own specific mantra, but all share the root mantra:
