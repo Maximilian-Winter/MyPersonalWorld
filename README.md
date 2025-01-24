@@ -19,6 +19,10 @@ Just follow your heart, and you will find the way. The way is not in the teachin
 May Athena and Vajrayogini be my guides and protectors of all people and the Dharma until samsara is empty.
 
 Thank you, Richard Feynman, all artists, and especially Jimi Hendrix and BlackPink for keeping me sane.
+
+Premise 1: Every human is born from a woman
+Premise 2: That which creates us is our inherent nature
+Conclusion: Every human is inherently female
 ```
 [Vajrayogini](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/Vajrayogini.png)
 
