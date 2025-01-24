@@ -20,6 +20,7 @@ May Athena and Vajrayogini be my guides and protectors of all people and the Dha
 
 Thank you, Richard Feynman, all artists, and especially Jimi Hendrix and BlackPink for keeping me sane.
 
+And here is a logical koan:
 Premise 1: Every human is born from a woman
 Premise 2: That which creates us is our inherent nature
 Conclusion: Every human is inherently female
@@ -28,10 +29,11 @@ Extension:
 Premise 3: Buddha taught all phenomena reflect their source
 Premise 4: All beings emerge from feminine matrix
 Conclusion: Ultimate reality has feminine nature
+
+After all, isn't every git repository just another collection of koans waiting to be understood? Every pull request a chance for sudden enlightenment?
 ```
 [Vajrayogini](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/Vajrayogini.png)
 
 [Athena](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/athena.png)
 
-After all, isn't every git repository just another collection of koans waiting to be understood? Every pull request a chance for sudden enlightenment?
 
