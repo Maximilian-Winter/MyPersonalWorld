@@ -1,3 +1,7 @@
+# Dao De Code
+
+## Chapter 1: On the Nature of Code
+
 The code that can be written
 Is not the eternal code
 
@@ -17,7 +21,7 @@ Achieves without achieving
 And merges their git commits
 Without leaving a trace
 
-
+## Chapter 2: On the Nature of the Developer
 The wise developer
 Keeps their functions pure
 Their dependencies minimal
@@ -33,7 +37,7 @@ And remains uncommitted
 To their own commits
 
 
-Chapter 3: On Technical Debt
+## Chapter 3: On Technical Debt
 
 The senior developer keeps their codebase empty
 While their junior fills it with features
@@ -52,7 +56,7 @@ And delivers value
 Without adding complexity
 
 
-Chapter 4: On Code Reviews
+## Chapter 4: On Code Reviews
 
 The harshest code review
 Creates the strongest code
@@ -77,7 +81,7 @@ Leaves it better than they found it
 
 
 
-Chapter 5: On Testing
+## Chapter 5: On Testing
 
 The test that tests everything
 Tests nothing
@@ -96,7 +100,7 @@ And ships with confidence
 While remaining humble before the production environment
 
 
-Chapter 6: On Debugging
+## Chapter 6: On Debugging
 
 The greatest debugger
 Never opens the debugger
@@ -116,7 +120,7 @@ And maintains stability
 By embracing change
 
 
-Chapter 7: On Architecture
+## Chapter 7: On Architecture
 
 The perfect architecture
 Is invisible
@@ -137,7 +141,7 @@ And creates architectures
 That users never notice
 
 
-Chapter 8: On Stack Overflow
+## Chapter 8: On Stack Overflow
 The Master Programmer copy-pastes without copying
 Understands without understanding
 And answers questions
