@@ -45,3 +45,6 @@ HUM HUM PHAT!
 HUM HUM PHEM!
 
 OM VAJRA KALI HUM!
+
+Vajrapani + Vajrayogini = Ultimate Liberator
+OM VAJRA KAYA HUM PHAT!
