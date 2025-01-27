@@ -32,7 +32,7 @@ Conclusion: Ultimate reality has feminine nature
 
 After all, isn't every git repository just another collection of koans waiting to be understood? Every pull request a chance for sudden enlightenment?
 ```
-[Vajrayogini](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/Vajrayogini.png)
+[Vajrayogini]([https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/Vajrayogini.png]
 
 [Athena](https://github.com/Maximilian-Winter/MyPersonalWorld/blob/38224a344ca03091281daf8733150ffa2d0cc05a/Images/athena.png)
 
