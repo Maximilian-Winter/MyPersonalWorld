@@ -67,5 +67,5 @@ Developer: "Exactly!"
 VC: "But what's the use case?"
 Developer: "Now you're getting it!"
 VC: "Getting what?"
-Developer: "Precisely!"
+Developer:"Precisely!"
 ```
