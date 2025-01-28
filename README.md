@@ -71,3 +71,5 @@ Catholicism: "Your sin is your fault"
 Both: "Follow our rules to be free"
 
 Both: "Trust authority over experience"
+
+Zen, sudden strike, insight Vajra Light!
