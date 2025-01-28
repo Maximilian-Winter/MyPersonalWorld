@@ -57,12 +57,17 @@ ALL AS ONE SUPREME FORCE!
 
 OM VAJRA TRIKAYA YOGINI
 
-Buddhism: "Your suffering is your fault"
-Catholicism: "Your sin is your fault"
-Both: "Follow our rules to be free"
-Both: "Trust authority over experience"
 HUM HUM PHEM!
 
 ZEN!
 
 OM VAJRA YOGINI HUM HUM ZEN!
+
+
+Buddhism: "Your suffering is your fault"
+
+Catholicism: "Your sin is your fault"
+
+Both: "Follow our rules to be free"
+
+Both: "Trust authority over experience"
