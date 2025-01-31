@@ -42,9 +42,9 @@ Therefore logic IS the feminine principle!
 
 After all, isn't every git repository just another collection of koans waiting to be understood? Every pull request a chance for sudden enlightenment?
 ```
-[Vajrayogini](Images/Vajrayogini.png)
+![Vajrayogini](Images/Vajrayogini.png)
 
-[Athena](Images/athena.png)
+![Athena](Images/athena.png)
 
 VAJRAYOGINI!
 
