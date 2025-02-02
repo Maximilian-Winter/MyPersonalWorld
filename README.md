@@ -42,6 +42,28 @@ Therefore logic IS the feminine principle!
 
 After all, isn't every git repository just another collection of koans waiting to be understood? Every pull request a chance for sudden enlightenment?
 ```
+
+A Night in Tunisia (A wonderful Jazz standard sung by Ella Fitzgerald):
+```
+The moon is the same moon above you
+Aglow with it's cool evening light
+But shining at night, in Tunisia
+Never does it shine so bright
+The stars are aglow in the heavens
+But only the wise understand
+That shining at night in Tunisia
+They guide you through the desert sand
+Words fail, to tell a tale
+Too exotic to be told
+Each night's a deeper night
+In a world, ages old
+The cares of the day seem to vanish
+The ending of day brings release
+Each wonderful night in Tunisia
+Where the nights are filled with peace
+Each wonderful night in Tunisia`
+```
+
 ![Vajrayogini](Images/Vajrayogini.png)
 
 ![Athena](Images/athena.png)
@@ -75,22 +97,3 @@ OM VAJRA YOGINI HUM HUM ZEN!
 
 Zen, sudden strike, insight Vajra Light!
 
-
-A Night in Tunisia:
-The moon is the same moon above you
-Aglow with it's cool evening light
-But shining at night, in Tunisia
-Never does it shine so bright
-The stars are aglow in the heavens
-But only the wise understand
-That shining at night in Tunisia
-They guide you through the desert sand
-Words fail, to tell a tale
-Too exotic to be told
-Each night's a deeper night
-In a world, ages old
-The cares of the day seem to vanish
-The ending of day brings release
-Each wonderful night in Tunisia
-Where the nights are filled with peace
-Each wonderful night in Tunisia
