@@ -1,9 +1,10 @@
+```
 The easiest way to develop software is to don't try at all, but rather letting the ideas flow like water, till you see the fish you want and catch it.
 No comments, just the perfect names for processes, variables, classes, finding the perfect abstraction or true nature of the thing you want to represent.
 As Confucius said, "When names are not correct, language is not in accordance with the truth of things."
-
+```
 ---
-
+```
 不求而得 - Attaining without seeking
 不為而成 - Accomplishing without forcing
 任水自流 - Allowing water to flow naturally
@@ -48,9 +49,9 @@ As Confucius said, "When names are not correct, language is not in accordance wi
 
 大巧若拙 - Supreme skill appears clumsy
 大智若愚 - Supreme wisdom appears foolish
-
+```
 ---
-
+```
 北⭒⭒⭒⭒⭒⭒⭒斗
 無⭒⭒⭒⭒名
 ⭒⭒⭒⭒⭒
@@ -68,9 +69,9 @@ As Confucius said, "When names are not correct, language is not in accordance wi
 水⭒⭒火
 ⭒⭒
 土
-
+```
 ---
-
+```
 The empty vessel holds all possibilities.
 The unnamed contains all names.
 The uncarved block holds all forms.
@@ -108,3 +109,4 @@ Feels like it was always there
 
 Between thinking and not-thinking
 The fish of inspiration leaps
+```
